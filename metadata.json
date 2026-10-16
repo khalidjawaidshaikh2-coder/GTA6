@@ -1,0 +1,6 @@
+{
+  "name": "GTA & Global Crime: Empirical Criminology Platform",
+  "description": "An interactive criminological research and data analysis platform investigating the empirical relationship between the Grand Theft Auto video game series and global violent crime and homicide rates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
